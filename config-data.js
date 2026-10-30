@@ -29,8 +29,8 @@ window.__CONFIG = {
     "video": "videos/city-video.mp4"
   },
   "contact": {
-    "whatsapp": "https://wa.me/54951973825463",
-    "phone": "+54951973825463",
+    "whatsapp": "https://wa.me/51973825463",
+    "phone": "+51973825463",
     "email": ""
   },
   "social": {
@@ -372,7 +372,7 @@ window.__CONFIG = {
         "name": "Hospedaje Casa Máncora",
         "description": "Un hostel con onda en Perú. Conocé Hospedaje Casa Máncora.",
         "url": "",
-        "telephone": "+54951973825463",
+        "telephone": "+51973825463",
         "email": "",
         "image": "",
         "sameAs": [
